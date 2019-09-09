@@ -8,6 +8,6 @@ I decided to take this class because coding has always interested me.  I also ho
 3. To be able to understand simple code and write simple code.
 
 http://www.moldychum.com/
-![my screenshot](./images/Screen Shot 2019-09-09 at 4.52.19 PM)
+![my screenshot](./images/Screen Shot 2019-09-09 at 4.52.19 PM.png)
 [my responses](./responses.txt) 
 
