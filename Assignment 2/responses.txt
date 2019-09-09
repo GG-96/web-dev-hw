@@ -1,0 +1,4 @@
+Data can travel through electricity through things such as ethernet cables or it can travel through radio waves in the way such as mobile devices and wifi
+An IP is basically an address that allows other computers to locate eachother and be able to distinguish which one is which.   DNS are split up into different network domains and help sift through information that we may search for.
+cookies are small text files that are used to make websites run more efficiently and help provide the owners of the site information.
+A protocol A domain and A path.
