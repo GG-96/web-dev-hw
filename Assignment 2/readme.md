@@ -9,5 +9,5 @@ I decided to take this class because coding has always interested me.  I also ho
 
 http://www.moldychum.com/
 ![screenshot](https://github.com/GG-96/web-dev-hw/blob/master/Assignment%202/Images/Screen%20Shot%202019-09-09%20at%204.52.19%20PM.png)
-
+(./responses.txt) 
 
