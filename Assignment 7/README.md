@@ -1,0 +1,2 @@
+The difference between a span and a div is that a span is a in line element and is usually used for a small chunk of html inside a line. where a div is a block line and used to group larger chunks of code. a class selector is a name preceded by a full stop and an id selector is a name proceded by a hash character. the difference is that an id can be used to identify one element whereas a class can be used to identify more than one element.
+Alt text is used to describe images to visitors who are unable to see them. they pop up when the mouse scrolls over them 
