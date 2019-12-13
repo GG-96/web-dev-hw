@@ -1,0 +1,13 @@
+Body{
+  font-family:font-family: 'Gelasio', serif;
+  font-size: 1.25em;
+}
+
+.navigation{
+  background-color: #000;
+  width:300px;
+}
+
+.main{
+background-color: #FFF;
+}
